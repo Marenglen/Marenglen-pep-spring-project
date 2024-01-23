@@ -1,10 +1,4 @@
 {
-	"folders": [
-		{
-			"name": "Marenglen-pep-spring-project",
-			"path": "."
-		}
-	],
 	"settings": {
 		"extensions.ignoreRecommendations": true
 	}
